@@ -1,2 +1,2 @@
 # My-Engineering-Journey
-My biomedical engineering learning and projects
+About my engineering learning and projects
